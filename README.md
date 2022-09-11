@@ -2,12 +2,8 @@
 
 ### 创建存证
 
-* 创建前!
+* 创建存证
 ![截屏2022-09-12 00 20 20](https://user-images.githubusercontent.com/87348540/189540321-d0c25787-e40f-4e1b-ab73-48dc0144258e.png)
-
-
-
-* 创建后
 * ![截屏2022-09-12 00 22 03](https://user-images.githubusercontent.com/87348540/189540198-a10e9505-3393-49c5-94ff-4727c2ca1812.png)
 
 
