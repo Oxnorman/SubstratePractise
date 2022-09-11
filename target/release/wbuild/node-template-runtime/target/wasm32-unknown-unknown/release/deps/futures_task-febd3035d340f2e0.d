@@ -1,0 +1,10 @@
+/Users/guangbozhang/substrate-node-template-main/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/futures_task-febd3035d340f2e0.rmeta: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/spawn.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/future_obj.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/noop_waker.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libfutures_task-febd3035d340f2e0.rlib: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/spawn.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/future_obj.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/noop_waker.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/futures_task-febd3035d340f2e0.d: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/spawn.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/future_obj.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/noop_waker.rs
+
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/lib.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/spawn.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/future_obj.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.19/src/noop_waker.rs:

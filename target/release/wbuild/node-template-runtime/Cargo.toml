@@ -1,0 +1,22 @@
+[dependencies.wasm-project]
+default-features = false
+features = []
+package = 'node-template-runtime'
+path = '/Users/guangbozhang/substrate-node-template-main/runtime'
+
+[lib]
+crate-type = ['cdylib']
+name = 'node_template_runtime'
+
+[package]
+edition = '2021'
+name = 'node-template-runtime-wasm'
+version = '1.0.0'
+[profile.dev]
+panic = 'abort'
+
+[profile.release]
+lto = true
+panic = 'abort'
+
+[workspace]

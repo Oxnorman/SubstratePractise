@@ -1,0 +1,10 @@
+/Users/guangbozhang/substrate-node-template-main/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_aura-5482de60f45776da.rmeta: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/migrations.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/mock.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/tests.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libpallet_aura-5482de60f45776da.rlib: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/migrations.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/mock.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/tests.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_aura-5482de60f45776da.d: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/migrations.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/mock.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/tests.rs
+
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/lib.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/migrations.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/mock.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/frame/aura/src/tests.rs:

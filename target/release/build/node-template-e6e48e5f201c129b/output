@@ -1,0 +1,3 @@
+cargo:warning=Git command failed with status: exit status: 128
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=4.0.0-dev-unknown-x86_64-macos
+cargo:warning=Could not find `.git/HEAD` searching from `/Users/guangbozhang/substrate-node-template-main/node` upwards!

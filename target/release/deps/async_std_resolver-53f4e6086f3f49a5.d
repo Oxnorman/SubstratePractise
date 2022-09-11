@@ -1,0 +1,10 @@
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/async_std_resolver-53f4e6086f3f49a5.rmeta: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/net.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/runtime.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/time.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/libasync_std_resolver-53f4e6086f3f49a5.rlib: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/net.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/runtime.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/time.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/async_std_resolver-53f4e6086f3f49a5.d: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/net.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/runtime.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/time.rs
+
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/lib.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/net.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/runtime.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/time.rs:

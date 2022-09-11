@@ -1,0 +1,2 @@
+cargo:rustc-cfg=libc
+cargo:rerun-if-env-changed=CARGO_CFG_RSIX_USE_LIBC

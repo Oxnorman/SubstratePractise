@@ -1,0 +1,10 @@
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/jsonrpc_ipc_server-6a2cb8d514f07474.rmeta: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/meta.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/select_with_weak.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/server.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/libjsonrpc_ipc_server-6a2cb8d514f07474.rlib: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/meta.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/select_with_weak.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/server.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/jsonrpc_ipc_server-6a2cb8d514f07474.d: /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/lib.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/meta.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/select_with_weak.rs /Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/server.rs
+
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/lib.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/meta.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/select_with_weak.rs:
+/Users/guangbozhang/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-18.0.0/src/server.rs:

@@ -1,0 +1,1 @@
+{"rustc":3672834463929925203,"features":"[\"serde\", \"serde1\"]","target":13294766831966498538,"profile":17504242664759948721,"path":6896712509682903736,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/camino-9ffc112f346cc89b/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":6629943342842305810,"config":2202906307356721367,"compile_kind":0}

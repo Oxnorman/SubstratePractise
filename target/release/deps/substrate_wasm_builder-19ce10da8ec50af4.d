@@ -1,0 +1,10 @@
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/substrate_wasm_builder-19ce10da8ec50af4.rmeta: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/builder.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/prerequisites.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/wasm_project.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/libsubstrate_wasm_builder-19ce10da8ec50af4.rlib: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/builder.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/prerequisites.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/wasm_project.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/substrate_wasm_builder-19ce10da8ec50af4.d: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/builder.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/prerequisites.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/wasm_project.rs
+
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/lib.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/builder.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/prerequisites.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/utils/wasm-builder/src/wasm_project.rs:

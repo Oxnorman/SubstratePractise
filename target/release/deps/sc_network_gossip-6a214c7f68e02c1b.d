@@ -1,0 +1,10 @@
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/sc_network_gossip-6a214c7f68e02c1b.rmeta: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/bridge.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/state_machine.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/validator.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/libsc_network_gossip-6a214c7f68e02c1b.rlib: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/bridge.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/state_machine.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/validator.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/sc_network_gossip-6a214c7f68e02c1b.d: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/bridge.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/state_machine.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/validator.rs
+
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/lib.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/bridge.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/state_machine.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/client/network-gossip/src/validator.rs:

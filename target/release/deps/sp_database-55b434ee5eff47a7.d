@@ -1,0 +1,10 @@
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/sp_database-55b434ee5eff47a7.rmeta: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/error.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/kvdb.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/mem.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/libsp_database-55b434ee5eff47a7.rlib: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/error.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/kvdb.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/mem.rs
+
+/Users/guangbozhang/substrate-node-template-main/target/release/deps/sp_database-55b434ee5eff47a7.d: /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/lib.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/error.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/kvdb.rs /Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/mem.rs
+
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/lib.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/error.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/kvdb.rs:
+/Users/guangbozhang/.cargo/git/checkouts/substrate-7e08433d4c370a21/b6c1c1b/primitives/database/src/mem.rs:
