@@ -21,5 +21,6 @@
 
 
 ### 单元测试
+<img width="1076" alt="image-20211226221331903" src="https://user-images.githubusercontent.com/87348540/189540734-a6b4bfbb-113b-43e5-8734-3533104fb327.png">
 
-![image-20211226221331903](assets/image-20211226221331903.png)
+
